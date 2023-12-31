@@ -1,5 +1,4 @@
-
-  "favourite": [
+let favourite=[
     {
       "x": "https://m.media-amazon.com/images/M/MV5BZjI3MTI5ZTYtZmNmNy00OGZmLTlhNWMtNjZiYmYzNDhlOGRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
       "y": "Ultimate Avengers II",
